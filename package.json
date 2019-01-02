@@ -1,0 +1,12 @@
+{
+  "name": "node-aws-cloudwatch",
+  "version": "0.0.1",
+  "description": "Provides examples to interface with AWS Cloudwatch",
+  "main": "index.js",
+  "author": "Paul Jensen (paul.t.jensen@gmail.com)",
+  "license": "",
+  "dependencies": {
+    "aws-sdk": "latest",
+    "winston": "latest"
+  }
+}
